@@ -1,0 +1,2 @@
+use xdp_tx to send it back to the interface it recieved the packet from
+if not icmp XDP_PASS
